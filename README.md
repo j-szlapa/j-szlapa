@@ -70,8 +70,11 @@ Currently learning more about how to design & develop a Portfolio-Website
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) 
 ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
 <br><br/>
+# 🚀 Projects I've Worked On
+
+### [studyTracker](https://github.com/nicola-pache/studyTracker)
+A flutter app to help students organize their studies. Set personalized goals you want to reach, keep track of your deadlines and watch your progress. studyTracker combines all the organizational tools you need in one place.
+<br><br/>
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=j-szlapa&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
-
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
